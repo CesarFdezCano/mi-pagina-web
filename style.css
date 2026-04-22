@@ -3,4 +3,9 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   color: #333333;
+  padding: 40px;
+}
+
+h1 {
+  color: #2c5f8a;
 }
